@@ -1,0 +1,36 @@
+README – Weather & Climate Analysis Project
+Overview :
+
+This project explores global weather and climate patterns through exploratory data analysis, environmental analysis, spatial visualization, and temperature forecasting.
+
+The analysis includes:
+
+Climate trends over time
+Country-level weather comparisons
+Air quality and weather relationships
+Geographical temperature distribution
+Temperature prediction and model evaluation
+
+
+Running the Notebook :
+
+This notebook is designed to run on Google Colab.
+
+The dataset is loaded automatically from a public Google Drive CSV URL, so no manual dataset upload is required.
+
+To run the project:
+
+Open the notebook in Google Colab (Clone it from Github)
+Run all cells sequentially
+
+All required libraries are included in Google Colab by default.
+
+What Was Done
+
+The project involved:
+
+1.Data cleaning and preprocessing
+2.Exploratory Data Analysis (EDA) to identify weather and climate patterns
+3.Environmental analysis to study relationships between weather variables and air quality
+4.Spatial analysis to visualize temperature distribution geographically
+5.Forecasting and evaluation to compare prediction performance
